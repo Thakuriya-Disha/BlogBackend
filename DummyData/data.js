@@ -251,7 +251,7 @@ const kdramas = (req,res) => {
         },
         {
             category:"kdramas",
-            id:29,
+            id:35,
             url:"https://i.scdn.co/image/ab67616d0000b2738b36a8c16b48db1bdab65545",
             title:"Reply 1988",
             description:`Follows the lives of 5 families living on the same street in a neighbourhood called Ssangmundong in Seoul. A nostalgic look back at the year 1988.`,
