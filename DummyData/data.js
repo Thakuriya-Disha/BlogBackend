@@ -10,7 +10,36 @@ const poetry = (req,res) => {
             helpful, guiding us through the nights. This is dedicated to those kind of people.`,
             theme:"Promise / Affection",
             date:"10th Mar 2023",
-            featureID:3
+            featureID:3,
+            article:
+            `
+            I love you like I love the Moon
+            I want you to know that
+            I'll be here for you.
+            I am here to stay, my dear
+            I am not going away
+            no matter what the phase.
+            
+            Just like when the Moon
+            shines the brightest, glows with happiness
+            or when the Moon disappears in the quietest of nights;
+            From your moonless nights to the blue moon skies,
+            I promise I will be there, my love
+            The dark won't scare me away.
+            
+            I won't love you only on the best days
+            I promise that to you, my love
+            I will make your darkest nights mine
+            My word I give to you, my dear.
+            So, here I am tonight writing this to you:
+            I don't say "I heart you" because I Moon You.
+
+            I love you like I love the Moon
+            if you go away, do come back too
+            know that I'd wait for you
+            because I love you
+            like I love the Moon.
+            `
         },
         {
             category:"poetry",
