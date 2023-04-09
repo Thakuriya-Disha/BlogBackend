@@ -532,8 +532,8 @@ const music = (req,res) => {
             currently is the bonus track "Yonaki" from Radwimps 4). Almost all of Noda's lyrics are based on events he has
             experienced. The current members are: Yojiro Noda, Akira Kuwahara, Yusuke Takeda, Satoshi Yamaguchi. 
 
-            On November 23, 2021 the band released their irst studio album in 3 years titled "FOREVER DAZE" and went on 
-            the road to support the album with the "Forever in the Daze Tour" from December 2021 through January 2022, 
+            On November 23, 2021 the band released their irst studio album in 3 years titled "FOREVER DAZE" and went 
+            on the road to support the album with the "Forever in the Daze Tour" from December 2021 through January 2022, 
             visiting 6 cities for 12 shows. This record was written throughout the pandemic and speaks to the musical 
             challenges the band faced, their hopes moving forward. It is composed of 14 songs. My personal favourites are
             "Iron Feather" and "Inujarashi". "Iron Feather" is a song that will touch your heart with its melody, lyrics
@@ -864,8 +864,8 @@ const kdramas = (req,res) => {
             character growth was executed amazingly. Each character got time to shine.
 
             3) Nam Do-san is one of the most unique male leads ever. I could connect to his character on a soul-level. They
-            made him so relatable- figuring out life in the twenties. And actor Nam Joo-Hyuk performed flawlessly. Who could 
-            have thought that a cute, awkward, smart but under-confident character could become the hero in a story. 
+            made him so relatable- figuring out life in the twenties. And actor Nam Joo-Hyuk performed flawlessly. Who 
+            could have thought that a cute, awkward, smart but under-confident character could become the hero in a story. 
             Do-san's character growth is my favourite part of this show. He was expressive and though usually timid,
             but when it came to Dal-mi he didn't think twice. Instead of holding himself back, he listened to his heart
             and went all in. Instead of overthinking it, he went ahead anyway and put in the efforts. And those efforts
@@ -1568,8 +1568,8 @@ const movies = (req,res) => {
             all time. Nearly every actor's performance proved worthy of commendation.
 
             Not everyone in Interstellar recognizes the potential of advanced technology. Most dismiss it as a waste of 
-            time and resources. Farming became paramount while advanced technology was deemed frivolous. Cooper remains 
-            one of the few survivors who still appreciates the need for engineering. He feels like a man lost in time, 
+            time and resources. Farming became paramount while advanced technology was deemed frivolous. Cooper 
+            remains one of the few survivors who still appreciates the need for engineering. He feels like a man lost in time, 
             until he stumbles into the headquarters of NASA (which had been operating in secret due to public 
             disapproval). Here he meets others who realize that a return to our old ways is unsustainable and will 
             ultimately lead to our demise. We need technology to save us. Professor Brand, eloquently tells Cooper,  
